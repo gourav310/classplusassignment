@@ -1,0 +1,20 @@
+{
+  "name": "classplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongoose": "^5.11.18",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^6.9.3"
+  }
+}
